@@ -216,7 +216,7 @@ header img {
 }
 
 .slider-text h3 {
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
 
 .slider-left-btn,
@@ -224,9 +224,9 @@ header img {
 	border: none;
 	background-color: var(--bg-transparent-color);
 	color: var(--white-color);
-	width: 3rem;
-	height: 3rem;
-	font-size: 1.5rem;
+	width: 2rem;
+	height: 2rem;
+	font-size: 1.2rem;
 	margin: 0.5rem;
 	border-radius: 50%;
 	opacity: 0.4;
@@ -243,12 +243,12 @@ header img {
 
 .slider-left-btn {
 	left: 0;
-	top: calc(50% - 3rem);
+	top: calc(50% - 1.5rem);
 }
 
 .slider-right-btn {
 	right: 0;
-	top: calc(50% - 3rem);
+	top: calc(50% - 1.5rem);
 }
 
 .home-promo {
